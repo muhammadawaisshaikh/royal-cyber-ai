@@ -83,4 +83,8 @@
     padding-bottom: 25px;
 }
 
-.industries-img {}
+.industries-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
