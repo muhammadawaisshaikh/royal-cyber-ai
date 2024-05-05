@@ -112,3 +112,15 @@
     background-color: rgba(0, 0, 0, 0.4);
     /* Black w/ opacity */
 }
+
+ul.ai-content {
+    list-style-type: disc;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+ul.ai-content li {
+    line-height: 30px;
+    text-transform: capitalize;
+}
